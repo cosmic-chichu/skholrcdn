@@ -1,0 +1,11 @@
+Sentiment,WordCount,Type
+Financial,0.75,Overall
+Regulations,0.4,Overall
+Technology,0.98,Overall
+Productivity,0.9,Overall
+Innovative,0.85,Overall
+Financial,0.4,User
+Regulations,0.25,User
+Technology,0.82,User
+Productivity,0.85,User
+Innovative,0.95,User
